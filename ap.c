@@ -16,7 +16,7 @@ printf("%d ", value);
 sum += value;
 value = value + d;
 }
-printf(" %d\n",n,sum);
+printf(" %d,%d\n",n,sum);
 return 0;
 }
 
